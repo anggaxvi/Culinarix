@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Culinarix</string>
+    <string name="regis">Register</string>
+    <string name="pleaseregis">Please sign up to login.</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="age">Umur</string>
+    <string name="domicile">Domisili</string>
+    <string name="signup">Sign Up</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="pleaselog">Please sign in to continue.</string>
+    <string name="signin">Sign In</string>
+
+
+
+    <string name="tempatmakan">Tempat Makan</string>
+    <string name="alamat">Jl.Tempat - Makan</string>
+
+</resources>
